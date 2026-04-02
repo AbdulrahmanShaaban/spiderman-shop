@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "white red spiderman hoodie",
+        "price": 25,
+        "image": "spiderman clothes/white hoodie1.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "white red spiderman hoodie2",
+        "price": 30,
+        "image": "spiderman clothes/white hoodie2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "white black spiderman hoodie",
+        "price": 15,
+        "image": "spiderman clothes/white hoodie3.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "white black spiderman t-shirt",
+        "price": 10,
+        "image": "spiderman clothes/white t-shirt1.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "red spiderman t-shirt",
+        "price": 10,
+        "image": "spiderman clothes/red t-shirt.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "black red spiderman t-shirt",
+        "price": 15,
+        "image": "spiderman clothes/black t-shirt1.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "black spiderman t-shirt",
+        "price": 25,
+        "image": "spiderman clothes/black hoodie1.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "black white spiderman t-shirt",
+        "price": 35,
+        "image": "spiderman clothes/black hoodie2.jpeg"
+    }
+]
